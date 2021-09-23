@@ -1,3 +1,2 @@
 * linguist-vendored
-*.cs linguist-vendored=false
 *.cpp linguist-detectable=false
