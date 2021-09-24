@@ -1,2 +1,4 @@
 * linguist-vendored
 *.cpp linguist-detectable=false
+2DRPG/** linguist-documentation=false
+2DRPG/** linguist-vendored=false
